@@ -1,7 +1,6 @@
 # P2P C2 Framework
 
 <div align="center">
-  <img src="website/src/assets/logo.png" alt="P2P C2 Framework" width="200"/>
   
   <h3>Advanced Peer-to-Peer Command and Control Framework</h3>
   
@@ -219,7 +218,6 @@ This framework is designed for **legitimate cybersecurity training and research 
     <strong>Built with ❤️ for the cybersecurity community</strong>
   </p>
   <p>
-    <a href="https://p2p-c2-framework.com">Website</a> •
     <a href="https://github.com/SaadSaid158/p2p-c2-framework">GitHub</a> 
   </p>
 </div>

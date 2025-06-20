@@ -1,0 +1,139 @@
+MIT License
+
+Copyright (c) 2025 P2P C2 Framework Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Additional Terms for Cybersecurity Software
+
+### Educational and Research Use
+
+This software is designed and intended for legitimate cybersecurity education, 
+training, and research purposes only. By using this software, you agree to:
+
+1. **Authorized Use Only**: Use this software only on systems you own or have 
+   explicit written permission to test.
+
+2. **Legal Compliance**: Ensure all use complies with applicable local, state, 
+   national, and international laws and regulations.
+
+3. **Responsible Disclosure**: Report any security vulnerabilities found through 
+   responsible disclosure channels.
+
+4. **No Malicious Use**: Not use this software for unauthorized access, data 
+   theft, system damage, or any other malicious activities.
+
+### Disclaimer of Liability
+
+The authors and contributors of this software:
+
+- Provide this software "as is" without warranty of any kind
+- Disclaim all liability for any misuse of this software
+- Are not responsible for any damages resulting from use of this software
+- Do not endorse or encourage any illegal or unethical activities
+
+### Acceptable Use Examples
+
+✅ **Permitted Uses:**
+- Cybersecurity training and education
+- Authorized penetration testing
+- Academic research with proper approval
+- Red team exercises with written authorization
+- Security tool development and testing
+- Defensive security training and awareness
+
+❌ **Prohibited Uses:**
+- Unauthorized access to computer systems
+- Data theft or privacy violations
+- System damage or disruption
+- Violation of terms of service
+- Any illegal activities
+- Malicious or harmful activities
+
+### Compliance Requirements
+
+Users must ensure compliance with relevant regulations including but not limited to:
+
+- Computer Fraud and Abuse Act (CFAA) - United States
+- Computer Misuse Act - United Kingdom  
+- Cybercrime Act - Various jurisdictions
+- General Data Protection Regulation (GDPR) - European Union
+- Local cybersecurity and privacy laws
+
+### Educational Institution Guidelines
+
+Educational institutions using this software should:
+
+1. Provide proper supervision and guidance
+2. Ensure students understand legal and ethical boundaries
+3. Implement appropriate access controls and monitoring
+4. Maintain records of authorized use
+5. Provide cybersecurity ethics training
+
+### Commercial Use
+
+Commercial use of this software is permitted under the MIT License terms, 
+provided that:
+
+1. All use remains within legal and ethical boundaries
+2. Proper attribution is maintained
+3. The software is not used for malicious purposes
+4. Users comply with all applicable laws and regulations
+
+### Reporting Misuse
+
+If you become aware of misuse of this software, please report it to:
+- Email: abuse@p2p-c2-framework.com
+- Security team: security@p2p-c2-framework.com
+
+### Modification and Distribution
+
+When modifying or distributing this software:
+
+1. Maintain this license and additional terms
+2. Clearly document any modifications
+3. Ensure recipients understand the intended use
+4. Do not remove or modify attribution
+5. Consider the security implications of changes
+
+### International Use
+
+Users outside the United States should:
+
+1. Consult local laws and regulations
+2. Obtain necessary approvals or licenses
+3. Ensure compliance with export control laws
+4. Respect local cybersecurity regulations
+
+### Updates to Terms
+
+These additional terms may be updated periodically. Users are responsible for 
+reviewing and complying with the current terms available at:
+https://github.com/username/p2p-c2-framework/blob/main/LICENSE
+
+---
+
+**Last Updated**: June 2025
+**Effective Date**: June 2025
+
+For questions about licensing or acceptable use, contact:
+legal@p2p-c2-framework.com
+
